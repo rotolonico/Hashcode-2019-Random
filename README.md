@@ -11,5 +11,7 @@ Check out this related video to see me live coding this repository: https://www.
 ## Support me
 
 My fuzzy coding youtube channel: https://www.youtube.com/uNicoDev
+
 My twitter: https://twitter.com/rotolonico
+
 My discord server: https://discord.gg/8yYuAfs
